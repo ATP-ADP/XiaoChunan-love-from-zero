@@ -1,0 +1,4 @@
+interface:
+  display_name: "零经验恋爱起始指南"
+  short_description: "面向母胎单身、从未谈过恋爱的异性恋男性，从零开始教你认识自己、认识对方、推进关系到确认关系"
+  default_prompt: "使用 $love-from-zero 帮我从零开始，梳理我的恋爱观念并给出下一步建议。"
